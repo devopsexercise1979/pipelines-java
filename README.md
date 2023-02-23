@@ -1,3 +1,4 @@
+[![Build Status](https://alvin-sii.visualstudio.com/Lab%20Project/_apis/build/status/devopsexercise1979.pipelines-java?branchName=main)](https://alvin-sii.visualstudio.com/Lab%20Project/_build/latest?definitionId=1&branchName=main)
 
 # Contributing
 
